@@ -41,5 +41,6 @@ Reduction measures: Enlarge the button, use high-contrast design, and place it p
 Percentages or vague visuals may not help users understand how busy the gym is.
 Reduction measures: Show estimated number of people, "35 people at the gym now", for clarity.
 
-**Risk**: App load times are too long on older devices
-Users with mid-range or older phones may experience slow loading times, leading to frustration or app abandonment.
+**Risk**: Potential long load times on older devices
+Since development hasn’t started, there’s a risk that early versions of the app may not be optimized for older or mid-range devices, potentially causing slow performance and user frustration.
+Reduction measures: Keep performance in mind during development—optimize load times by minimizing assets, compressing media, and lazy-loading non-essential features.
