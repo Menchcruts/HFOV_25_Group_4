@@ -40,3 +40,6 @@ Reduction measures: Enlarge the button, use high-contrast design, and place it p
 **Risk**: Unclear how many people are at a gym
 Percentages or vague visuals may not help users understand how busy the gym is.
 Reduction measures: Show estimated number of people, "35 people at the gym now", for clarity.
+
+**Risk**: App load times are too long on older devices
+Users with mid-range or older phones may experience slow loading times, leading to frustration or app abandonment.
